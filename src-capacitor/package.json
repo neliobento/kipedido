@@ -1,0 +1,29 @@
+{
+  "name": "Driver app",
+  "version": "0.0.1",
+  "description": "Karenderia driver app",
+  "author": "basti",
+  "private": true,
+  "dependencies": {
+    "@awesome-cordova-plugins/location-accuracy": "^6.8.0",
+    "@capacitor-community/background-geolocation": "^1.2.19",
+    "@capacitor-community/camera-preview": "^6.0.0",
+    "@capacitor-community/fcm": "^6.0.0",
+    "@capacitor-community/keep-awake": "^5.0.1",
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/app-launcher": "^6.0.2",
+    "@capacitor/camera": "^6.0.2",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/device": "^6.0.1",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/geolocation": "^6.0.1",
+    "@capacitor/network": "^6.0.2",
+    "@capacitor/push-notifications": "^6.0.2",
+    "@capacitor/splash-screen": "^6.0.2",
+    "@capacitor/toast": "^6.0.2",
+    "cordova-plugin-request-location-accuracy": "^2.3.0",
+    "firebase": "^10.7.1"
+  }
+}
